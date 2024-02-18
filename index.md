@@ -16,13 +16,12 @@ nav_order: 1
   <main>
     <h1>Zaki S. Ahmed</h1>
     <h3>Data Scientist</h3>
-
   <br>
   <p>Hi! My name is Zaki Syed Ahmed and I am a Data Scientist in training at UCSD pursuing a B.S. in Data Science and a B.S. in Cognitive Science. My skillset can be applied to any data-driven problem from data load all the way to advanced analysis and model deployment. </p>
   <br>
-  <p>Contact info: </p>
+  <h3>Contact info:</h3>
   <p>
-  Email: <a>zaki1503@gmail.com </a>
+  Email: <a>zaki1503@gmail.com</a>
   </p>
   <p>
   Phone: <a>+1 (209) 207-8328 </a>
