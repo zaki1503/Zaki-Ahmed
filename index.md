@@ -27,8 +27,9 @@ nav_order: 1
   <p>
   Phone: <a>+1 (209) 207-8328 </a>
   </p>
+  <a href="https://www.linkedin.com/in/zakisahmed/" target="_blank">My LinkedIn</a>
   <p>
-  <a href="https://github.com/zaki1503/Zaki-Ahmed/raw/main/Resume_Zaki_Ahmed.pdf" target="_blank">Resume</a>
+  <a href="https://github.com/zaki1503/Zaki-Ahmed/raw/main/Resume_Zaki_Ahmed.pdf" target="_blank"> My Resume</a>
   </p>
   <br>
  
